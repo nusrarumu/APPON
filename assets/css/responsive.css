@@ -1,0 +1,9 @@
+@media(max-width:575px){
+    .screenshots-slick .col{
+        text-align: center;
+    }
+    .screenshots-slick .col img{
+        display: inline-block;
+    }
+}
+
